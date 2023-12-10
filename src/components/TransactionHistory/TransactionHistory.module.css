@@ -1,0 +1,10 @@
+.table {
+  margin: 0 auto;
+}
+
+.th {
+  background-color: deepskyblue;
+  padding: 5px 60px;
+  font-size: 23px;
+  color: whitesmoke;
+}

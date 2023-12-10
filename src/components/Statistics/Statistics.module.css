@@ -1,0 +1,17 @@
+.section {
+  padding: 20px 0;
+}
+
+.header {
+  color: grey;
+  text-transform: uppercase;
+  font-size: 18px;
+  width: 130px;
+  padding: 20px 80px;
+  margin: 0 auto;
+}
+
+.list {
+  display: flex;
+  justify-content: center;
+}

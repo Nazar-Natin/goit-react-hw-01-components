@@ -1,0 +1,62 @@
+.section {
+  padding: 20px 0;
+}
+
+.card {
+  width: 320px;
+  margin: 0 auto;
+  padding-top: 10px;
+  border-radius: 5px;
+  background: #fff;
+  box-shadow: 0px 4px 16px -4px rgba(0, 0, 0, 0.25);
+}
+
+.img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background-color: white;
+  display: block;
+  margin: 25px auto;
+}
+
+.description {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.userName {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.userTag {
+  color: grey;
+  margin-bottom: 8px;
+}
+
+.userLocation {
+  color: grey;
+  font-size: 17px;
+}
+
+.list {
+  display: flex;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: calc(100% / 3);
+  align-items: center;
+  border: 1px solid #e8ecf2;
+  background-color: #f3f6f9;
+  border-radius: 0 0 5px 5px;
+  height: 84px;
+}
+
+.span {
+  margin-bottom: 10px;
+}
